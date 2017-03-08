@@ -1,0 +1,77 @@
+body {
+  text-align: center
+  background-color: #FFFEF8;
+  background-image: url(http://d31f1lobboyy59.cloudfront.net/wp-content/uploads/2014/12/Macaron-photo-2-1024x673.jpg);
+
+}
+
+h1 {
+  color: ;
+  font-size: 30px;
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
+}
+
+.img-circle {
+  width: 150px;
+  display: block;
+  width: 30%;
+  margin: auto;
+  border-radius: 100px;
+}
+
+.icon {
+  color: #9A3C6A ;
+  width: 5%;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 25px;
+}
+
+h3 {
+
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+}
+
+p {
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+
+div {
+  width: 500px;
+  margin: 0 auto;
+
+  padding: 0px;
+
+
+  border-top: 1px;
+  border-right: 2px;
+  border-bottom: 1px
+  border-left: 2px;
+  border-radius:4px;
+
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.card {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #ECE0D4;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
